@@ -315,8 +315,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Avinash Singh', 'avinash@bsetech.in', NULL, '$2y$12$GDhKtqG2ImjLjC/ezjATj.XfnTE.8Tv4/rAreQbS9XMIy2E6eBCOS', NULL, '2024-05-11 22:37:52', '2024-05-11 22:37:52'),
-(2, 'Test Singh', 'avinash1@bsetech.in', NULL, '$2y$12$xOonUIRQCmmQgK.pDZJB3OfK/EFYH2y2vDKjUyOVnJokiPM0/9Zx2', NULL, '2024-05-12 00:40:47', '2024-05-12 00:40:47');
+(1, 'Avinash Singh', 'avi170512@gmail.com', NULL, '$2y$12$GDhKtqG2ImjLjC/ezjATj.XfnTE.8Tv4/rAreQbS9XMIy2E6eBCOS', NULL, '2024-05-11 22:37:52', '2024-05-11 22:37:52'),
+(2, 'Test Singh', 'avinash@gmail.com', NULL, '$2y$12$xOonUIRQCmmQgK.pDZJB3OfK/EFYH2y2vDKjUyOVnJokiPM0/9Zx2', NULL, '2024-05-12 00:40:47', '2024-05-12 00:40:47');
 
 --
 -- Constraints for dumped tables
